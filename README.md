@@ -1,4 +1,4 @@
-# 🎬 Prime Video Content Analysis Dashboard | Power BI
+![Screenshot 2026-02-14 230726](https://github.com/user-attachments/assets/49f9fb37-c2cd-419f-b330-b8593e05b59a)# 🎬 Prime Video Content Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
 
@@ -52,7 +52,7 @@ The dashboard provides insights into content distribution, ratings, genres, and 
 
 ---
 
-## 🖼️ Dashboard Preview
+
 
 
 
